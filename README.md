@@ -6,6 +6,13 @@ Welcome to the ACP Starter repository! This project helps you learn the basics o
 
 The Agent Communication Protocol (ACP) is a standardized way for agents to communicate with clients. It enables building consistent, interoperable agent systems with a clear separation between agents and clients.
 
+## Learn More
+
+To dive deeper into ACP concepts, visit the [Agent Communication Protocol main repository](https://github.com/nisalgunawardhana/Agent-Communication-Protocol) for documentation, examples, and advanced usage.
+
+## Official Documentation
+
+For comprehensive guides and reference material, visit the [ACP Official Documentation](https://agentcommunicationprotocol.dev/introduction/welcome).
 ## Getting Started
 
 ### Prerequisites

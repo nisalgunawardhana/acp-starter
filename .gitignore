@@ -20,6 +20,10 @@ var/
 .installed.cfg
 *.egg
 
+pyproject.toml
+.python-version
+uv.lock
+
 # Virtual Environments
 venv/
 ENV/
