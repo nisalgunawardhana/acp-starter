@@ -95,14 +95,14 @@ git push origin submission
 
 - Create a pull request from your `submission` branch to the `main` branch on the Your repository.
 
-   ![How to Make a PR - Step 1](./Images/pr-image1.png)
-   ![How to Make a PR - Step 2](./Images/pr-image2.png)
+   ![How to Make a PR - Step 1](./images/pr-image1.png)
+   ![How to Make a PR - Step 2](./images/pr-image2.png)
 
     Follow the above images for a visual guide on creating a pull request.
 
    **Tip:** After creating your pull request, copy the PR link from your browser's address bar. You will need this link when creating your submission issue in the next step.
 
-   ![How to Make a PR - Step 3](./Images/pr-image3.png)
+   ![How to Make a PR - Step 3](./images/pr-image3.png)
 
 > **Note:** The images above demonstrate how to select the correct branches and create a pull request. The repository name shown in the screenshots may differ from yours—just follow the same steps for your own repository.
 
