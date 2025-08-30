@@ -120,6 +120,36 @@ git push origin submission
 - `client.py` - A simple client to test your agent
 - `README.md` - This guidance file
 
+## 💬 Join the Discussion!
+
+Have questions, ideas, or want to share your experience?  
+We welcome you to use [GitHub Discussions](https://github.com/nisalgunawardhana/acp-starter/discussions) for:
+
+- Asking questions about setup or usage
+- Sharing feedback or suggestions
+- Requesting new features
+- Connecting with other contributors
+
+👉 **Click the "Discussions" tab at the top of this repo to start or join a conversation!**
+
+Let's build and learn together!
+
+---
+
+## Connect with Me
+
+Follow me on social media for more sessions, tech tips, and giveaways:
+
+- [LinkedIn](https://www.linkedin.com/in/nisalgunawardhana/) — Professional updates and networking
+- [Twitter (X)](https://x.com/thenisals) — Insights and announcements
+- [Instagram](https://www.instagram.com/thenisals) — Behind-the-scenes and daily tips
+- [GitHub](https://github.com/nisalgunawardhana) — Repositories and project updates
+- [YouTube](https://www.youtube.com/channel/UCNP5-zR4mN6zkiJ9pVCM-1w) — Video tutorials and sessions
+
+Feel free to connect and stay updated!
+
+---
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
